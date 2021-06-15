@@ -4,7 +4,6 @@
 
 ## Podcastr
 
-[![Author](https://img.shields.io/badge/author-dimasneto-8257E5?style=flat-square)](https://github.com/dimasneto7)
 <h4 align="center">
   Podcastr is a platform built for podcast broadcasting.
 </h4>
@@ -56,3 +55,5 @@ The app will be available for access on your browser at `http://localhost:3000`
 ---
 
  By Dimas Neto
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimas-neto-136aa91a5/)](https://www.linkedin.com/in/dimas-neto-136aa91a5/) 
